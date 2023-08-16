@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Q1. Which of the following statement is incorrect about Square wave voltammetry?",?",
+      "question": "Q1. Which of the following statement is incorrect about Square wave voltammetry?",
       "answers": {
         "a": "Fe(η<sup> 2</sup> -C <sub>5</sub> H<sub> 5</sub> )<sub> 3</sub>",
         "b": "Cr(η<sup> 5</sup> -C <sub>5</sub> H <sub>5</sub> )<sub> 5</sub>.",
@@ -80,8 +80,7 @@
         "c": "Diffusion Coefficients (D).",
         "d": "Peak potential."
       },      
-      "correctAnswer": "c"
-    }
+      "correctAnswer": "c"    }
   ]
 
 }
