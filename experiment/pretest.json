@@ -2,85 +2,85 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Q1. Which of the following statement is incorrect about Square wave voltammetry?",
+      "question": "Q1. Which of the following statement is incorrect about Square wave voltammetry?",?",
       "answers": {
-        "a": "Direct detection limits as low as 10 –3 M are possible.",
-        "b": "The net current, i net , is obtained by taking the difference between the forward and reverse currents.",
-        "c": "It shows excellent sensitivity and the rejection of background currents.",
-        "d": "In this technique, the peak height is directly proportional to the concentration of the electroactive species"
+        "a": "Fe(η<sup> 2</sup> -C <sub>5</sub> H<sub> 5</sub> )<sub> 3</sub>",
+        "b": "Cr(η<sup> 5</sup> -C <sub>5</sub> H <sub>5</sub> )<sub> 5</sub>.",
+        "c": "Fe(η<sup> 5</sup> -C <sub>5</sub> H <sub>5</sub> )<sub> 2</sub>.",
+        "d": "Os(η<sup> 5</sup> -C <sub>5</sub> H <sub>5</sub> )<sub> 2</sub>."
       },
-	  "correctAnswer": "a"     
+	  "correctAnswer": "c"     
     },
 	{
-      "question": "Q2. Which of the following electrode has a wide potential window, excellent electrochemical stability, and selectivity?",
+      "question": "Q2. A redox couple in which both species rapidly exchange electrons with the working electrode is called an _____________________.?",
       "answers": {
-        "a": "Boron-doped diamond electrode",
-        "b": "Glassy carbon electrode",
-        "c": "Platinum electrode",
-        "d": "Silver/silver chloride electrode"
+        "a": "Standard reduction potential.",
+        "b": "Electrochemically reversible couple.",
+        "c": "Formal potential.",
+        "d": "Pseudo reference."
       },
-      "correctAnswer": "a"
+      "correctAnswer": "b"
     },
     {
-      "question": "Q3. _______________ is an electronic device that maintains the potential of a working electrode at a constant level.",
+      "question": "Q3. The coordination number of Fe in Ferrocene is:-",
       "answers": {
-        "a": "Amperostat",
-        "b": "Potentiostat",
-        "c": "Galvanostat",
-        "d": "Potentiometer"
+        "a": "10",
+        "b": "6",
+        "c": "2",
+        "d": "5"
+      },
+      "correctAnswer": "A"
+    },
+	{
+      "question": "Q4. Which one of the following represents ferrocenium cation?",
+      "answers": {
+        "a": "Fe(C<sub> 5</sub> H <sub>5</sub> ) <sub>2</sub>.",
+        "b": "Fe(C<sub> 5</sub> H <sub>5</sub> ) <sub>2</sub><sup>+</sup>.",
+        "c": "Fe(C<sub> 5</sub> H <sub>5</sub> ) <sub>3</sub>.",
+        "d": "Fe(C<sub> 5</sub> H <sub>5</sub> ) <sub>4</sub>."
       },
       "correctAnswer": "b"
     },
 	{
-      "question": "Q4. Boron doped diamond electrode is used as a _________________.",
+      "question": "Q5. All the iron-carbon bond distances in ferrocene are ________.",
       "answers": {
-        "a": "Auxiliary electrode.",
-        "b": "Working electrode.",
-        "c": "Reference electrode.",
-        "d": "Conducting electrode."
-      },
-      "correctAnswer": "b"
-    },
-	{
-      "question": "Q5. Reduction reaction produces ___________ current.",
-      "answers": {
-        "a": "Controlled",
-        "b": "Constant",
-        "c": "Cathodic",
-        "d": "Anodic"
+        "a": "Equal.",
+        "b": "Unequal.",
+        "c": "Distinct.",
+        "d": "Approximately same."
       },      
-      "correctAnswer": "c"
+      "correctAnswer": "a"
     },	
 	{
-      "question": "Q6. Which of the following is not a characteristic of differential pulse voltammetry?",
+      "question": "Q6. The ferrocenium/ferrocene redox couple has an established application as an in-situ __________________________ in the organic phase voltammetry.",
       "answers": {
-        "a": "Reversible reactions have asymmetric peaks",
-        "b": "Irreversible reactions have asymmetric peaks",
-        "c": "The peak current is proportional to the concentration",
-        "d": "The detection limit is about 10<sup>-8</sup>M"
+        "a": "Pseudo reference.",
+        "b": "Reference.",
+        "c": "Pseudo auxiliary.",
+        "d": "Standard reference."
       },     
       "correctAnswer": "a"
     },
 	
 	{
-      "question": "Q7. Faraday’s law relates the number of moles of the analyte to the",
+      "question": "Q7. Ferrocene cannot undergo ______________________ reaction?",
       "answers": {
-        "a": "Charge",
-        "b": "Voltage",
-        "c": "Current",
-        "d": "volume"
-      },      
-      "correctAnswer": "b"
-    },
-	{
-      "question": "Q8. Which of the following is a disadvantage of boron-doped diamond electrodes?",
-      "answers": {
-        "a": "Not suitable for commercial applications.",
-        "b": "Low background current",
-        "c": "Good electrical conductivity",
-        "d": "Non-toxic property"
+        "a": "Diels-Alder reaction.",
+        "b": "Friedal craft acylation.",
+        "c": "Oxidation by Ag + ions.",
+        "d": "Elecrtrophilic substitute."
       },      
       "correctAnswer": "a"
+    },
+	{
+      "question": "Q8. The Randles-Sevcik equation is used to calculate _______________.",
+      "answers": {
+        "a": "Current.",
+        "b": "Rotating rate of the electrode.",
+        "c": "Diffusion Coefficients (D).",
+        "d": "Peak potential."
+      },      
+      "correctAnswer": "c"
     }
   ]
 
