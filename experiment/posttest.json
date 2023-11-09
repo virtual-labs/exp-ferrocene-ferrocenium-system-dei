@@ -22,7 +22,7 @@
       "correctAnswer": "a"
     },
     {
-      "question": "Q3. The Fe III/II redox couple of ferrocene is used as an internal or pseudo reference when reporting ______________ of a redox-active species.",
+      "question": "Q3. The Fe<sup>III/II</sup> redox couple of ferrocene is used as an internal or pseudo reference when reporting ______________ of a redox-active species.",
       "answers": {
         "a": "Displacement",
         "b": "Standard reduction potential",
@@ -52,7 +52,11 @@
       "correctAnswer": "b"
     },	
 	{
-      "question": "Q6. Which of the following statement is false about ferrocene? I. All Fe-C are of equal length. II. It is the first discovered organometallic compound. III. C is sp 2 hybridized. IV. C is sp 3 hybridized.",
+      "question": "Q6. Which of the following statement is false about ferrocene? 
+		I. All Fe-C are of equal length. 
+		II. It is the first discovered organometallic compound. 
+		III. C is sp<sup>2</sup> hybridized. 
+		IV. C is sp<sup>3</sup> hybridized.",
       "answers": {
         "a": "III, IV",
         "b": "IV only",
