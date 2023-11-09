@@ -4,10 +4,10 @@
     {
       "question": "Q1. Which of the following is the formula of ferrocene?",
       "answers": {
-        "a": "Fe(η<sup> 2</sup> -C <sub>5</sub> H<sub> 5</sub> )<sub> 3</sub>",
-        "b": "Cr(η<sup> 5</sup> -C <sub>5</sub> H <sub>5</sub> )<sub> 5</sub>.",
-        "c": "Fe(η<sup> 5</sup> -C <sub>5</sub> H <sub>5</sub> )<sub> 2</sub>.",
-        "d": "Os(η<sup> 5</sup> -C <sub>5</sub> H <sub>5</sub> )<sub> 2</sub>."
+        "a": "Fe(η<sup>2</sup>-C<sub>5</sub>H<sub>5</sub>)<sub>3</sub>",
+        "b": "Cr(η<sup>5</sup>-C<sub>5</sub>H<sub>5</sub>)<sub>5</sub>.",
+        "c": "Fe(η<sup>5</sup>-C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>.",
+        "d": "Os(η<sup>5</sup>-C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>."
       },
 	  "correctAnswer": "c"     
     },
@@ -34,10 +34,10 @@
 	{
       "question": "Q4. Which one of the following represents ferrocenium cation?",
       "answers": {
-        "a": "Fe(C<sub> 5</sub> H <sub>5</sub> ) <sub>2</sub>.",
-        "b": "Fe(C<sub> 5</sub> H <sub>5</sub> ) <sub>2</sub><sup>+</sup>.",
-        "c": "Fe(C<sub> 5</sub> H <sub>5</sub> ) <sub>3</sub>.",
-        "d": "Fe(C<sub> 5</sub> H <sub>5</sub> ) <sub>4</sub>."
+        "a": "Fe(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>.",
+        "b": "Fe(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub><sup>+</sup>.",
+        "c": "Fe(C<sub>5</sub>H<sub>5</sub>)<sub>3</sub>.",
+        "d": "Fe(C<sub>5</sub>H<sub>5</sub>)<sub>4</sub>."
       },
       "correctAnswer": "b"
     },
@@ -67,7 +67,7 @@
       "answers": {
         "a": "Diels-Alder reaction.",
         "b": "Friedal craft acylation.",
-        "c": "Oxidation by Ag + ions.",
+        "c": "Oxidation by Ag<sup>+</sup>ions.",
         "d": "Elecrtrophilic substitute."
       },      
       "correctAnswer": "a"
