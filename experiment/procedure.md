@@ -7,7 +7,7 @@
 <br>
 ●	Prepare two solutions, for solution A weigh 0.018gm of ferrocene and 3.29gm of Bu<sub>4</sub>NBF<sub>4</sub>.
 <br>
-●	Transfer both these salts to a clean 100ml volumetric flask and makeup to 100ml using CH<sub>2</sub>Cl<sub>2</sub>. 
+●	Transfer these salts to a clean 100ml volumetric flask and makeup to 100ml using CH<sub>2</sub>Cl<sub>2</sub>. 
 <br>
 ●	For solution B, in another 100ml volumetric flask add 0.018gm of ferrocene, use a pipette to add 1.76ml aqueous H<sub>2</sub>SO<sub>4</sub> , and makeup to 100ml using ethanol.
 <br>
