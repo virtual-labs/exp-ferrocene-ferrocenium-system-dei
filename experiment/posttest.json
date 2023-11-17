@@ -52,11 +52,7 @@
       "correctAnswer": "b"
     },	
 	{
-      "question": "Q6. Which of the following statement is false about ferrocene? 
-		I. All Fe-C are of equal length. 
-		II. It is the first discovered organometallic compound. 
-		III. C is sp<sup>2</sup> hybridized. 
-		IV. C is sp<sup>3</sup> hybridized.",
+      "question": "Q6. Which of the following statement is false about ferrocene? I. All Fe-C are of equal length. II. It is the first discovered organometallic compound. III. C is sp<sup>2</sup> hybridized. IV. C is sp<sup>3</sup> hybridized.",
       "answers": {
         "a": "III, IV",
         "b": "IV only",
