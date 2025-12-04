@@ -1,6 +1,6 @@
 ### Requirements:
 Ferrocene, dichloromethane, tetrabutylammonium tetrafluoroborate, sulfuric acid, ethanol.<b>
-### Procedure: <br>
+### Procedure: 
 ● Clean the electrodes and the electrochemical cell with double-distilled water.<b>
 ● The glassy carbon electrode is used as a working electrode, the saturated calomel electrode as a reference electrode, and the platinum wire electrode as an auxiliary electrode.<b>
 ● For this experiment, prepare two solutions: solution A and solution B. <br>
