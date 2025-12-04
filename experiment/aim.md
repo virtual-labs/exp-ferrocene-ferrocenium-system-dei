@@ -1,1 +1,2 @@
-### Cyclic Voltammetry of ferrocene-ferrocenium system
+### Aim: 
+Cyclic Voltammetry of ferrocene-ferrocenium system.
