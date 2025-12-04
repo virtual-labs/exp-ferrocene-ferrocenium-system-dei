@@ -9,9 +9,9 @@ Ferrocene, dichloromethane, tetrabutylammonium tetrafluoroborate, sulfuric acid,
 ● For solution B, in another 100ml volumetric flask, add 0.018gm of ferrocene, then use a pipette to add 1.76ml aqueous H 2 SO 4 , and make up to 100ml using ethanol. <br>
 ● Pour 10ml of solution A and solution B into the electrochemical cell, one after the other, then initiate the cyclic voltammetry measurement to record the CV curve. <br>
 ● Cyclic Voltammetry (CV) Parameters: <br>
-● Initial Potential: 0.0 V <br>
-● Final Potential: 0.6 V <br>
-● Scan Rate: 10 mV/s <br>
-● Quiet Time (Equilibration Time): 5–10 s <br>
-● Sweep Segments: 2 <br>
-● Graphs A and B represent a glassy carbon electrode voltammetry of ferrocene in an organic medium and an aqueous medium. <br>
+* Initial Potential: 0.0 V <br>
+* Final Potential: 0.6 V <br>
+* Scan Rate: 10 mV/s <br>
+* Quiet Time (Equilibration Time): 5–10 s <br>
+* Sweep Segments: 2 <br>
+* Graphs A and B represent a glassy carbon electrode voltammetry of ferrocene in an organic medium and an aqueous medium. <br>
