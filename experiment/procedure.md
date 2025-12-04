@@ -1,8 +1,8 @@
 ### Requirements:
-Ferrocene, dichloromethane, tetrabutylammonium tetrafluoroborate, sulfuric acid, ethanol.<b>
+Ferrocene, dichloromethane, tetrabutylammonium tetrafluoroborate, sulfuric acid, ethanol.<br>
 ### Procedure: <br>
-● Clean the electrodes and the electrochemical cell with double-distilled water.<b>
-● The glassy carbon electrode is used as a working electrode, the saturated calomel electrode as a reference electrode, and the platinum wire electrode as an auxiliary electrode.<b>
+● Clean the electrodes and the electrochemical cell with double-distilled water.<br>
+● The glassy carbon electrode is used as a working electrode, the saturated calomel electrode as a reference electrode, and the platinum wire electrode as an auxiliary electrode.<br>
 ● For this experiment, prepare two solutions: solution A and solution B. <br>
 ● For solution A, weigh 0.018gm of ferrocene and 3.29gm of tetrabutylammonium tetrafluoroborate (Bu 4 NBF 4 ). <br>
 ● Transfer these salts to a clean 100ml volumetric flask and make up with dichloromethane (CH 2 Cl 2 ). <br>
