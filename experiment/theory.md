@@ -7,13 +7,15 @@ conditions. Ferrocene is a highly investigated organometallic molecule. Bis(cycl
 sandwiched between two cyclopentadienyl rings.The following figure represents the sandwich structure of ferrocene. <br>
 
 <div align="center">
-  <img src="images/image1.png">
+  <img src="images/imagef1.png">
 </div>
-![Figure1](images/image1.png)
+
 
 It can undergo one-electron oxidation to form ferrocenium cation Fe(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub><sup>+</sup> reversibly. Organic
 and aqueous media mediums can be used to study ferrocene electrochemical behaviors.The following figure represents the reversible mono-electronic oxidation of ferrocene. <br>
-![Figure2](images/image2.png)
+<div align="center">
+  <img src="images/imagef2.png">
+</div>
 <br>
 <p>The electrochemical measurements were carried out using a potentiostat equipped with a three-electrode cell configuration. A glassy carbon working electrode, a saturated calomel reference
 electrode, and a platinum wire counter electrode were employed. The system provided precise control of the applied potential and current response, enabling reliable cyclic voltammetry of the
