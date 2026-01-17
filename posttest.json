@@ -1,0 +1,87 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Q1. Which of the following statement is true about ferrocene?",
+      "answers": {
+        "a": "Ferrocene can be nitrated by reaction with concentrated HNO 3.",
+        "b": "Cyclopentadienyl ring in ferrocene is staggered.",
+        "c": "Cyclopentadienyl rings in ferrocene are almost eclipsed.",
+        "d": "Decamethyl ferrocene is staggered in the liquid state."
+      },
+	  "correctAnswer": "c"     
+    },
+	{
+      "question": "Q2. Ferrocene is only _____________________ in chlorinated electrolytes?",
+      "answers": {
+        "a": "Partially or quasi-reversible.",
+        "b": "Reversible",
+        "c": "Irreversible",
+        "d": "Both b and c"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Q3. The Fe<sup>III/II</sup> redox couple of ferrocene is used as an internal or pseudo reference when reporting ______________ of a redox-active species.",
+      "answers": {
+        "a": "Displacement",
+        "b": "Standard reduction potential",
+        "c": "Velocity",
+        "d": "Diffusion coefficient"
+      },
+      "correctAnswer": "b"
+    },
+	{
+      "question": "Q4. Which of the following statement is true about ferrocene?",
+      "answers": {
+        "a": "Kealy and Pauson synthesize ferrocene from C 5 H 5 and freshly reduced Fe at 300℃.",
+        "b": "Ferrocene is paramagnetic.",
+        "c": "Dipole moment is not zero.",
+        "d": "Kealy and Pauson synthesizes ferrocene from C<sub>5</sub>H<sub>5</sub>MgBr and FeCl<sub>3.</sub>"
+      },
+      "correctAnswer": "a"
+    },
+	{
+      "question": "Q5.The quasistatic process is always ______________.",
+      "answers": {
+        "a": "Irreversible",
+        "b": "Reversible",
+        "c": "Both",
+        "d": "Partially reversible"
+      },      
+      "correctAnswer": "b"
+    },	
+	{
+      "question": "Q6. Which of the following statement is false about ferrocene? I. All Fe-C are of equal length. II. It is the first discovered organometallic compound. III. C is sp<sup>2</sup> hybridized. IV. C is sp<sup>3</sup> hybridized.",
+      "answers": {
+        "a": "III, IV",
+        "b": "IV only",
+        "c": "I, II, and III",
+        "d": "I only"
+      },     
+      "correctAnswer": "b"
+    },
+	
+	{
+      "question": "Q7. The π-electrons in the cyclopentadienyl group of ferrocene are ___________.",
+      "answers": {
+        "a": "Localized",
+        "b": "Delocalized",
+        "c": "Stable",
+        "d": "Unstable"
+      },      
+      "correctAnswer": "b"
+    },
+	{
+      "question": "Q8. Which of the following is the reference electrode?",
+      "answers": {
+        "a": "Pt wire.",
+        "b": "Glassy carbon electrode.",
+        "c": "Saturated calomel electrode.",
+        "d": "None of the above."
+      },      
+      "correctAnswer": "c"
+    }
+  ]
+
+}
