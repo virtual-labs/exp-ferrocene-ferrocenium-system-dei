@@ -1,0 +1,86 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Q1. Which of the following is the formula of ferrocene?",
+      "answers": {
+        "a": "Fe(η<sup>2</sup>-C<sub>5</sub>H<sub>5</sub>)<sub>3</sub>",
+        "b": "Cr(η<sup>5</sup>-C<sub>5</sub>H<sub>5</sub>)<sub>5</sub>.",
+        "c": "Fe(η<sup>5</sup>-C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>.",
+        "d": "Os(η<sup>5</sup>-C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>."
+      },
+	  "correctAnswer": "c"     
+    },
+	{
+      "question": "Q2. A redox couple in which both species rapidly exchange electrons with the working electrode is called an _____________________.?",
+      "answers": {
+        "a": "Standard reduction potential.",
+        "b": "Electrochemically reversible couple.",
+        "c": "Formal potential.",
+        "d": "Pseudo reference."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Q3. The coordination number of Fe in Ferrocene is:-",
+      "answers": {
+        "a": "10",
+        "b": "6",
+        "c": "2",
+        "d": "5"
+      },
+      "correctAnswer": "a"
+    },
+	{
+      "question": "Q4. Which one of the following represents ferrocenium cation?",
+      "answers": {
+        "a": "Fe(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>.",
+        "b": "Fe(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub><sup>+</sup>.",
+        "c": "Fe(C<sub>5</sub>H<sub>5</sub>)<sub>3</sub>.",
+        "d": "Fe(C<sub>5</sub>H<sub>5</sub>)<sub>4</sub>."
+      },
+      "correctAnswer": "b"
+    },
+	{
+      "question": "Q5. All the iron-carbon bond distances in ferrocene are ________.",
+      "answers": {
+        "a": "Equal.",
+        "b": "Unequal.",
+        "c": "Distinct.",
+        "d": "Approximately same."
+      },      
+      "correctAnswer": "a"
+    },	
+	{
+      "question": "Q6. The ferrocenium/ferrocene redox couple has an established application as an in-situ __________________________ in the organic phase voltammetry.",
+      "answers": {
+        "a": "Pseudo reference.",
+        "b": "Reference.",
+        "c": "Pseudo auxiliary.",
+        "d": "Standard reference."
+      },     
+      "correctAnswer": "a"
+    },
+	
+	{
+      "question": "Q7. Ferrocene cannot undergo ______________________ reaction?",
+      "answers": {
+        "a": "Diels-Alder reaction.",
+        "b": "Friedal craft acylation.",
+        "c": "Oxidation by Ag<sup>+</sup>ions.",
+        "d": "Elecrtrophilic substitute."
+      },      
+      "correctAnswer": "a"
+    },
+	{
+      "question": "Q8. The Randles-Sevcik equation is used to calculate _______________.",
+      "answers": {
+        "a": "Current.",
+        "b": "Rotating rate of the electrode.",
+        "c": "Diffusion Coefficients (D).",
+        "d": "Peak potential."
+      },      
+      "correctAnswer": "c"    }
+  ]
+
+}
